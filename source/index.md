@@ -2,7 +2,7 @@
 status: exclude
 alias: CoCreate_HW_Assembly_pt
 lang: en
-short_description: Desmontagem e montagem colaborativa de um sistema de computador.
+short_description: Desmontagem e montagem colaborativa de um computador.
 long_description: >
     <p>Neste curso, os participantes irão desmontar e montar um sistema de computador de forma segura e colaborativa, identificar e registrar seus componentes, e produzir documentação técnica clara e precisa de todo o processo ao longo de quatro sessões.</p>
     <p>
