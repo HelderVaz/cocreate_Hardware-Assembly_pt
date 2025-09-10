@@ -2,9 +2,9 @@
 status: exclude
 alias: CoCreate_HW_Assembly_pt
 lang: en
-short_description: Desmontagem e montagem colaborativa de um sistema de computador.
+short_description: Desmontagem e montagem colaborativa de um computador.
 long_description: >
-    <p>Neste curso, os participantes irão desmontar e montar um sistema de computador de forma segura e colaborativa, identificar e registrar seus componentes, e produzir documentação técnica clara e precisa de todo o processo ao longo de quatro sessões.</p>
+    <p>Neste curso, os participantes irão desmontar e montar um sistema de computador de forma segura e colaborativa, identificar e registar os componentes, e produzir documentação técnica clara e precisa de todo o processo ao longo de quatro sessões.</p>
     <p>
     <p>Este curso foi desenvolvido como parte do projeto Erasmus+: <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Aprendizagem Colaborativa Apoiada por Computador para Educação Inclusiva</a>
     </p>
@@ -20,7 +20,7 @@ will_learn:
 needed: 
     - 1 PC/laptop por grupo para desmontagem e montagem
     - 1 PC/laptop com acesso à Internet por grupo para recursos e plataforma
-    - 1 telefone celular para tirar fotos
+    - 1 Smartphone para tirar fotos
     - 1 kit de ferramentas por grupo (chaves de precisão, pulseira antiestática, abraçadeiras, alicates, pasta térmica, pincel antiestático)
     
 useful:
